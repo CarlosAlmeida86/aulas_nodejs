@@ -1,0 +1,16 @@
+{
+  "name": "aulas_nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs classes project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "  "
+  },
+  "keywords": [],
+  "author": "Carlos Almeida",
+  "license": "ISC"
+}
